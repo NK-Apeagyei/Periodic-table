@@ -6,8 +6,6 @@
     To search for the element by periodic name you have type “Element Name”- ”Atomic Number”.
     Also, as mentioned you can search the elements by their atomic number.
     After you search the element it will show you the results by displaying their details
-
-    Code By Group 13 - Project 13.
  */
 
 #include <stdio.h>
@@ -209,12 +207,3 @@ void display_element_profile(int element_index) {
 
 }
 
-
-/*
-	Group Members
-	Appiah Boadu Prince Kwabena - 3024420
-	Anyomi Konadu Samuel - 3024120
-	Appiah Ebenezer Kofi - 3024520
-	Appau Maame Ama - 3024320
-	Appeagyei Nana Kofi - 3024220
-*/
